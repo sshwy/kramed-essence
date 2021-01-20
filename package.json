@@ -1,0 +1,37 @@
+{
+  "name": "kramed-essence",
+  "description": "A markdown (kramdown compatible) parser and compiler. Built for speed.",
+  "author": "Sshwy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "kramed": "bin/kramed"
+  },
+  "man": [
+    "./man/kramed.1"
+  ],
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "test": "node test",
+    "bench": "node test --bench"
+  },
+  "directories": {
+    "doc": "doc",
+    "lib": "lib",
+    "man": "man"
+  },
+  "keywords": [
+    "kramed",
+    "markdown",
+    "essence"
+  ],
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^7.18.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
