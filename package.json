@@ -11,8 +11,7 @@
   },
   "directories": {
     "doc": "doc",
-    "lib": "lib",
-    "man": "man"
+    "lib": "lib"
   },
   "keywords": [
     "kramed",
@@ -27,5 +26,14 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshwy/kramed-essence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sshwy/kramed-essence/issues"
+  },
+  "homepage": "https://github.com/sshwy/kramed-essence#readme"
 }
