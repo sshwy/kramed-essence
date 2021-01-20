@@ -4,12 +4,6 @@
   "author": "Sshwy",
   "version": "1.0.0",
   "main": "index.js",
-  "bin": {
-    "kramed": "bin/kramed"
-  },
-  "man": [
-    "./man/kramed.1"
-  ],
   "license": "GPL-3.0-or-later",
   "scripts": {
     "test": "node test",
