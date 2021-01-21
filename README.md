@@ -1,5 +1,7 @@
 # Kramed for Theme Essence
 
+[![GitHub license](https://img.shields.io/github/license/sshwy/kramed-essence)](https://github.com/sshwy/kramed-essence/blob/main/LICENSE) [![npm](https://img.shields.io/npm/v/kramed-essence)](https://www.npmjs.com/package/kramed-essence)
+
 This project is based on [kramed][kramed].
 
 **For compatible with tex code, it removes the underline em wrapper syntax.**
