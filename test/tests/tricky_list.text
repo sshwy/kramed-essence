@@ -1,15 +1,17 @@
-**hello** _world_
+**hello** *world*
 
 * hello world
 
-**hello** _world_
+**hello** *world*
 
 * hello world
 
-**hello** _world_
+**hello** *world*
 
 * Hello world
 
-**hello** _world_
+**hello** *world*
 
 * hello world
+
+*This is em $a_{i} + b_{i} < c_{i} > d_{i}$ with inner math.*
