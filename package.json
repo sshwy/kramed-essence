@@ -2,7 +2,7 @@
   "name": "kramed-essence",
   "description": "A markdown (kramdown compatible) parser and compiler. Built for speed.",
   "author": "Sshwy",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "GPL-3.0-or-later",
   "scripts": {
