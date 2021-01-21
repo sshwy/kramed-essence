@@ -1,6 +1,8 @@
 # Kramed for Theme Essence
 
-This project is based on kramed.
+This project is based on [kramed][kramed].
+
+**For compatible with tex code, it removes the underline em wrapper syntax.**
 
 ## Install
 
@@ -390,3 +392,4 @@ See LICENSE for more info.
 [badge]: http://badge.fury.io/js/kramed
 [tables]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-tables
 [breaks]: https://help.github.com/articles/github-flavored-markdown#newlines
+[kramed]: https://github.com/GitbookIO/kramed
