@@ -107,7 +107,7 @@ function runTests (eng, opts) {
         if (key in engineOpts) {
           engineOpts[key] = val;
         }
-        console.log();
+        // console.log();
       });
     }
 
@@ -151,7 +151,7 @@ function runTests (eng, opts) {
     }
 
     complete++;
-    console.log('#%d. %s completed.', i + 1, filename);
+    // console.log('#%d. %s completed.', i + 1, filename);
   }
 
   console.log('%d/%d tests completed successfully.', complete, len);
